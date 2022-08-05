@@ -4,5 +4,7 @@
 welcome
 
 hello
+hi
+how are you
 
 bye
