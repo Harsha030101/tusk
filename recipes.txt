@@ -4,7 +4,13 @@
 welcome
 
 hello
+hi
+how are you
 
 bye
 
+
+done my changes
+
 final copy
+
